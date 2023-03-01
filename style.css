@@ -1,0 +1,140 @@
+.content{
+    background-color: white;
+}
+h1{
+    color: black;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-flex;
+    padding: 10px 2px;
+    justify-content: space-between;
+    /*display: flex; */
+    margin-left: 30px;
+}
+nav ul a{
+    font-size: medium;
+    font-weight: 20px;
+    color: black;
+    justify-content: space-between;
+}button{
+    background-color: black;
+    color: white;
+}img1{
+    height: 250px;
+    width: 200px;
+    /*magin: 50px; */
+}
+img2{
+    height: 240px;
+    width: 300px;
+    margin-left: 120px;
+    /* padding-inline: 400px; */
+    margin-top: -450px;
+    margin-bottom: 100px;
+
+}
+img3{
+height: 100px;
+width: 150px;
+margin-left: 150px;
+margin-top: -250px;
+margin-bottom: 150px;
+}
+img4{
+    height: 100px;
+    width: 150px;
+    margin: 150px;
+    margin-top: -300px;
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+}
+h4{
+    display: flex;
+    /* justify-content: space-between; */
+    margin-left: 150px;
+}
+h5{
+    margin-left: 150px;
+    display: flex;
+    /* justify-content: space-between; */
+
+}
+button{
+    background-color: black;
+    color: white;
+}
+img5{
+    height: 250px;
+    width: 200px;
+    /* margin: 150px; */
+    margin-top: -70px;
+    margin-bottom: 50px;
+    margin-right: 150px;
+}
+img6{
+    height: 250px;
+    width: 200px;
+    /* margin: 150px; */
+    margin-top: -260px;
+    margin-bottom: 200px;
+    margin-left: 230px;
+
+}
+img7{
+    height: 250px;
+    width: 200px;
+    /* margin: 150px; */
+    margin-top: -260px;
+    margin-bottom: 200px;
+    margin-left: 230px;
+}
+img8{
+    height: 250px;
+    width: 200px;
+    /* margin: 150px; */
+    margin-top: -260px;
+    margin-bottom: 200px;
+    margin-left: 230px;
+}
+img9{
+    height: 250px;
+    width: 200px;
+    /* margin: 150px; */
+    margin-top: -260px;
+    margin-bottom: 200px;
+    margin-left: 230px;
+
+}
+button{
+    background-color: black;
+    color: white;
+}
+img10{
+    height: 250px;
+    width: 200px;
+    /* margin: 150px; */
+    margin-top: -260px;
+    margin-bottom: 200px;
+    margin-left: 230px;
+
+}
+h9{
+    list-style-type: none;
+    display: inline-flex;
+    padding: 10px 2px;
+    justify-content: space-between;
+    /*display: flex; */
+    margin-left: 30px;
+
+}
+
+
